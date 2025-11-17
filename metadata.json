@@ -1,0 +1,7 @@
+{
+  "name": "QR Code Analyzer",
+  "description": "An application to analyze QR codes by uploading an image or taking a picture with your camera. It quickly decodes the QR code and displays the embedded information.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
